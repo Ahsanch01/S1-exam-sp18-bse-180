@@ -7,8 +7,18 @@
     
 
 }
+body{
+    background-image: url(./left.png),url(./right.png);
+    background-repeat: repeat-y,repeat-y;
+    
+    background-position: left top, right top;
+    
+    
+}
+
 #body{
     background-color: #f1f1f1;
+    
 }
 li,form,button{
 
