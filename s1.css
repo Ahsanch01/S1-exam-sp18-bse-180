@@ -177,3 +177,21 @@ color: white;
     margin: 10px;
 
   }
+  /*------------------------*/
+  #footer{
+
+    background-color: #0a1cbd;
+  }
+  #fd{
+
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+  }
+  #register span{
+color: white;
+background-color: #0a1cbd;
+    display: flex;
+    margin: 10px;
+    align-items: center;
+  }
