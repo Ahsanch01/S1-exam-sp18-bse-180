@@ -87,3 +87,83 @@ overflow: hidden;
   #adv{
       padding: 20px;
   }
+  /*-----------------------*/
+
+  #one{
+      background-color: white;
+      padding: 5px;
+      margin: 8px;
+  }
+  #one2{
+    
+    padding: 5px;
+    margin: 8px;
+}
+  #two{
+
+    padding: 20px;
+border-bottom: 1px solid black;
+  }
+  #two2{
+
+    padding: 20px;
+
+  }
+  #text{
+
+    border-top: 1px solid black;
+
+  }
+  #second{
+
+    padding: 10px;
+    border-bottom:1px solid black;
+    
+
+  }
+  #maintext{
+
+background-color: white;
+margin: 10px;
+padding: 10px;
+
+  }
+  #line{
+      border-bottom: 1px solid black ;
+      padding: 20px;
+  }
+  /*----------------------------*/
+  #s2{
+   background-color: white;
+   padding: 5px;
+
+  }
+  #second22{
+      margin-bottom: 20px;
+      background-color: white;
+      padding: 20px;
+  }
+  #vot{
+      background-color: white;
+  }
+  #votin{
+      padding: 5px;
+  }
+  /*------------------------------*/
+  #l1{
+      background-color: white;
+      margin: 5px;
+  }
+  #l1iner{
+      padding: 15px;
+      
+  }
+
+
+  /*----------------------------------*/
+  #sp{
+color: white;
+    background-color: #0c198f;
+    margin: 10px;
+
+  }
