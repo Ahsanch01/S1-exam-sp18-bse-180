@@ -1,1 +1,1 @@
-<? php include_once("./s1.") ?>
+< ? php include_once("./s1.html") ? >
